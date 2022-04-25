@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Site-Vitrine/static/css/main.210eddce.chunk.css",
+    "main.js": "/Site-Vitrine/static/js/main.ec4367d8.chunk.js",
+    "main.js.map": "/Site-Vitrine/static/js/main.ec4367d8.chunk.js.map",
+    "runtime-main.js": "/Site-Vitrine/static/js/runtime-main.e025ab57.js",
+    "runtime-main.js.map": "/Site-Vitrine/static/js/runtime-main.e025ab57.js.map",
+    "static/js/2.b1683f98.chunk.js": "/Site-Vitrine/static/js/2.b1683f98.chunk.js",
+    "static/js/2.b1683f98.chunk.js.map": "/Site-Vitrine/static/js/2.b1683f98.chunk.js.map",
+    "index.html": "/Site-Vitrine/index.html",
+    "precache-manifest.caea6025936f4b9b8164cce183d76a80.js": "/Site-Vitrine/precache-manifest.caea6025936f4b9b8164cce183d76a80.js",
+    "service-worker.js": "/Site-Vitrine/service-worker.js",
+    "static/css/main.210eddce.chunk.css.map": "/Site-Vitrine/static/css/main.210eddce.chunk.css.map",
+    "static/js/2.b1683f98.chunk.js.LICENSE.txt": "/Site-Vitrine/static/js/2.b1683f98.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/Site-Vitrine/static/media/Questrial-Regular.37c8a1aa.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e025ab57.js",
+    "static/js/2.b1683f98.chunk.js",
+    "static/css/main.210eddce.chunk.css",
+    "static/js/main.ec4367d8.chunk.js"
+  ]
+}
