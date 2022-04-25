@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Site-Vitrine/static/css/main.210eddce.chunk.css",
-    "main.js": "/Site-Vitrine/static/js/main.f037e6e1.chunk.js",
-    "main.js.map": "/Site-Vitrine/static/js/main.f037e6e1.chunk.js.map",
+    "main.js": "/Site-Vitrine/static/js/main.8456fa2a.chunk.js",
+    "main.js.map": "/Site-Vitrine/static/js/main.8456fa2a.chunk.js.map",
     "runtime-main.js": "/Site-Vitrine/static/js/runtime-main.e025ab57.js",
     "runtime-main.js.map": "/Site-Vitrine/static/js/runtime-main.e025ab57.js.map",
     "static/js/2.b1683f98.chunk.js": "/Site-Vitrine/static/js/2.b1683f98.chunk.js",
     "static/js/2.b1683f98.chunk.js.map": "/Site-Vitrine/static/js/2.b1683f98.chunk.js.map",
     "index.html": "/Site-Vitrine/index.html",
-    "precache-manifest.f535b1708aeb53817173e4d437919d0c.js": "/Site-Vitrine/precache-manifest.f535b1708aeb53817173e4d437919d0c.js",
+    "precache-manifest.c1320fe8d5fb5e3b67955d6bc2e316ff.js": "/Site-Vitrine/precache-manifest.c1320fe8d5fb5e3b67955d6bc2e316ff.js",
     "service-worker.js": "/Site-Vitrine/service-worker.js",
     "static/css/main.210eddce.chunk.css.map": "/Site-Vitrine/static/css/main.210eddce.chunk.css.map",
     "static/js/2.b1683f98.chunk.js.LICENSE.txt": "/Site-Vitrine/static/js/2.b1683f98.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.e025ab57.js",
     "static/js/2.b1683f98.chunk.js",
     "static/css/main.210eddce.chunk.css",
-    "static/js/main.f037e6e1.chunk.js"
+    "static/js/main.8456fa2a.chunk.js"
   ]
 }
