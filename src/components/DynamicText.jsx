@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 
 const DynamicText = () => {
   useEffect(() => {
-    let array = ["passionné", "FullStack", "Front-End", "Back-End"];
+    let array = ["passionné", "React-Node", "Front-End", "Back-End"];
     let wordIndex = 0;
     let letterIndex = 0;
     const target = document.getElementById("text-target");
